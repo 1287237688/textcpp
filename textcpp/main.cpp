@@ -7,10 +7,8 @@
 //
 
 #include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    //倒海翻江会发生
-    std::cout << "Hello, World!\n";
+using namespace std;
+int main(){
+    cout<<"dhhdjhd"<<endl;
     return 0;
 }
